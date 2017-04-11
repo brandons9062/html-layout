@@ -1,0 +1,43 @@
+body {
+    height: 1024px;
+}
+
+
+.left-section {
+    background: #498ee2;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+
+.middle-section {
+    background: #50e2c2;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+
+.right-section {
+    background: #b9e887;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+    position: relative;
+}
+
+.image-placeholder {
+    background: #d0011b;
+    width: 100%;
+    position: absolute;
+    height: 20%;
+    bottom: 0;
+    color: white;
+    font-family:sans-serif;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 40px;
+}
+
+.txt {
+    margin-top: 20%;
+}
